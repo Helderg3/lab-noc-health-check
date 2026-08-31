@@ -2,7 +2,7 @@
 
 # ============================================================
 # Projeto: LAB Health Check
-# Versao: 0.5
+# Versao: 0.6
 # Objetivo: Coletar informacoes basicas do servidor LAB-NOC
 # ============================================================
 
@@ -74,6 +74,6 @@ echo "Nginx...........: $STATUS_NGINX [$NGINX_CHECK]"
 echo
 
 echo "============================================================"
-echo "Versao do script: 0.5"
+echo "Versao do script: 0.6"
 echo "============================================================"
 exit "$STATUS_GERAL"
